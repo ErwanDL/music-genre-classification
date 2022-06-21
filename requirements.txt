@@ -10,7 +10,7 @@ librosa==0.7.1
 llvmlite==0.30.0
 mccabe==0.6.1
 numba==0.46.0
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.3
 pycparser==2.19
 pylint==2.4.3
